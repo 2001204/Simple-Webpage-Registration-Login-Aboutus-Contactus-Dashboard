@@ -1,0 +1,37 @@
+body{
+    background-color: cyan;
+    background-image: url(https://media.licdn.com/dms/image/C4E16AQFq1rT8HgNBUA/profile-displaybackgroundimage-shrink_200_800/0/1603863214733?e=2147483647&v=beta&t=uXg-x28XKGYyUOP5X85TcQDM1OIjORTVf4nu-F53Ks4), url(https://www.cdac.in/img/int-banner/about_us.jpg);
+    background-size: 1650px;
+    background-repeat: no-repeat;
+}
+#container{
+    width: 500px;
+    height: 600px;
+    background-color: rgb(230, 224, 224);
+    /*
+    margin-top: 80px;
+    margin-left: 50px;
+    margin-right: 50px; */
+    margin: 80px auto;
+    align-content: center;
+    vertical-fontalign: middle;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+#font{
+    color: red;
+    font-size: xx-large;
+    background-color: blanchedalmond;
+}
+
+form{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+footer{
+    background-color: azure;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 0cqmin;
+    text-align: center;
+}
